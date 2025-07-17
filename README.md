@@ -6,8 +6,8 @@ My name is Zakarya Lasmar, and I am a postdoctoral researcher at [IonQ Inc](http
 
 The purpose of this repository is to show my progress in coding. The projects here are:
 
-- [project name](https://github.com/Zak-Las) short description of the project.
-- ...
+- [movies performance - Python](https://github.com/Zak-Las/Portfolio-DataProjects/tree/main/movies%20performance%20-%20Python): Here I clean and perform an exploratory data analysis on a dataset of movies from imdb.
+- [world life expectancy - PostgreSQL](https://github.com/Zak-Las/Portfolio-DataProjects/tree/main/world%20life%20expectancy%20-%20PostgreSQL): Here I clean and perform an exploratory data analysis on a dataset of the world life expectancy.
 
 # CV
 
